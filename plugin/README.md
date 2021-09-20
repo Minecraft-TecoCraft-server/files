@@ -1,4 +1,4 @@
-MCDR Plugin Repositories/我们的插件仓库
+MCDR Plugin Repositories/插件仓库
 ----
 |Plugin name/插件名|Authors/制作者|功能|
 |-|-|-|
