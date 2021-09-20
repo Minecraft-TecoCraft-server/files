@@ -1,8 +1,11 @@
-# flies
-![icon](icon.png)
-Hello this TecoCraft<br/>
-我会不定期的更新一些关于我们服务器的文件
+[ENG](README.md) | [中文](README-zh_cn.md)
 
------
-这里 [前往](plugin) 我们的mcdr插件仓库
-这里 [前往](mod_packs/readme.md)我们的整合包仓库
+------
+
+### 欢迎来到TecoCraft仓库目录。
+### 我们会在此更新我们各种仓库的信息。
+
+------
+
+# 仓库列表：
+### [插件](plugin) | [整合包](mod_packs/readme.md)
